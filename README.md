@@ -13,11 +13,13 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 ## Robot Raconteur Companion Libraries
 
 [Robot Raconteur Companion C++](https://github.com/robotraconteur/robotraconteur_companion) - Robot Raconteur Companion library for C++
+
 [Robot Raconteur Companion .NET](https://github.com/robotraconteur/RobotRaconteurNET.Companion) Robot Raconteur Companion library for C#
 
 ## Robot Raconteur Standards
 
 [Robot Raconteur Standards](https://github.com/robotraconteur/robotraconteur_standards) - Robot Raconteur Framework standards
+
 [Robot Raconteur Standard RobDef](https://github.com/robotraconteur/robotraconteur_standard_robdef) - Robot Raconteur standard service types for interoperable ecosystem devices
 
 ## Robot Raconteur Drivers
