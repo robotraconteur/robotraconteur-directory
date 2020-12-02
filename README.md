@@ -1,3 +1,5 @@
+<p align="center"><img src="https://robotraconteurpublicfiles.s3.amazonaws.com/RRheader2.jpg"></p>
+
 # Robot Raconteur Directory
 
 Directory of device drivers, applications, utilities, examples, and documentation projects for Robot Raconteur
