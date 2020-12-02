@@ -22,6 +22,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Robot Raconteur Standard RobDef](https://github.com/robotraconteur/robotraconteur_standard_robdef) - Robot Raconteur standard service types for interoperable ecosystem devices
 
+[Robot Raconteur Standard Identifiers](https://github.com/robotraconteur/robotraconteur_standard_identifiers) - Standard identifiers (names and UUIDs) for use within Robot Raconteur ecosystem
+
 ## Robot Raconteur Drivers
 
 ### Robots
