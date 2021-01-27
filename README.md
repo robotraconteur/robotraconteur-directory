@@ -64,6 +64,10 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [MTI Sensor](https://github.com/robotraconteur-contrib/MTI_RR_Interface)
 
+## Software
+
+[Robot Raconteur Gazebo Server Plugin](https://github.com/robotraconteur-contrib/RobotRaconteur_Gazebo_Server_Plugin) - Plugin for Gazebo Robot Simulator
+
 ## Utilities
 
 [Service Browser](https://github.com/robotraconteur/RobotRaconteur_ServiceBrowser) - GUI utility to view devices on local network using discovery
