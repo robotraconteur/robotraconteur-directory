@@ -16,6 +16,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Robot Raconteur Companion C++](https://github.com/robotraconteur/robotraconteur_companion) - Robot Raconteur Companion library for C++
 
+[Robot Raconteur Companion Python](https://github.com/robotraconteur/robotraconteur_companion_python) - Robot Raconteur Companion library for Python
+
 [Robot Raconteur Companion .NET](https://github.com/robotraconteur/RobotRaconteurNET.Companion) Robot Raconteur Companion library for C#
 
 ## Robot Raconteur Standards
