@@ -56,6 +56,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Kinect Azure Driver](https://github.com/robotraconteur-contrib/Kinect_Azure_RR_Interface) - Driver for Kinect Azure sensors
 
+[Intel RealSense Driver](https://github.com/robotraconteur-contrib/realsense_RR_driver) - Driver for Intel Realsense sensors
+
 [Cognex Driver](https://github.com/robotraconteur-contrib/Cognex_driver) - Driver for Cognex object recognition cameras over Ethernet
 
 ### Misc Devices
