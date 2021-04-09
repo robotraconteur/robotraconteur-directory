@@ -66,6 +66,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [MTI Sensor](https://github.com/robotraconteur-contrib/MTI_RR_Interface)
 
+[3DConnexion SpaceMouse](https://github.com/robotraconteur-contrib/robotraconteur_spacemouse_evdev_driver) - Linux evdev based driver for the 3DConnexion SpaceMouse
+
 ## Software
 
 [Robot Raconteur Gazebo Server Plugin](https://github.com/robotraconteur-contrib/RobotRaconteur_Gazebo_Server_Plugin) - Plugin for Gazebo Robot Simulator
