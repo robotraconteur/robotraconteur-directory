@@ -72,6 +72,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Robot Raconteur Gazebo Server Plugin](https://github.com/robotraconteur-contrib/RobotRaconteur_Gazebo_Server_Plugin) - Plugin for Gazebo Robot Simulator
 
+[Robot Raconteur ROS 2 Bridge](https://github.com/robotraconteur-contrib/robotraconteur_ros2_bridge) - Bridge to access ROS 2 topics and services using Robot Raconteur
+
 ## Utilities
 
 [Service Browser](https://github.com/robotraconteur/RobotRaconteur_ServiceBrowser) - GUI utility to view devices on local network using discovery
