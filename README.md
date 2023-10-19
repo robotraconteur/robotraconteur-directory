@@ -8,7 +8,9 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Robot Raconteur Core](https://github.com/robotraconteur/robotraconteur) - Robot Raconteur core C++ library and wrappers
 
-[Robot Raconteur Lite](https://github.com/robotraconteur/robotraconteurlite) - Robot Raconteur lightweight ANSI C implementation (incomplete)
+[Robot Raconteur Web](https://github.com/robotraconteur/RobotRaconteurWeb) - Robot Raconteur C\# and JavaScript implementation (using H5 compiler)
+
+[Robot Raconteur Lite](https://github.com/robotraconteur/robotraconteurlite) - Robot Raconteur lightweight ANSI C implementation for real-time and embedded systems
 
 [Robot Raconteur Pyodide](https://github.com/robotraconteur/robotraconteur_pyodide) - Robot Raconteur library for Pyodide, Python for the browser using WebAssembly
 
@@ -50,6 +52,12 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Robot Signal Tool Driver](https://github.com/robotraconteur-contrib/RobotSignalToolRobotRaconteurDriver) - Driver for tools that are controlled by robot digital-io signals, for instance pneumatic grippers
 
+[ABB Motion Program Driver](https://github.com/rpirobotics/abb_motion_program_exec)
+
+[Fanuc Motion Program Driver](https://github.com/rpiRobotics/fanuc_motion_program_exec)
+
+[ABB Robot Driver Hybrid Motion Program](https://github.com/robotraconteur-contrib/abb_robotraconteur_driver_hmp) - Hybrid driver supporting both real-time streaming and motion program operation
+
 ### Cameras
 
 [Robot Raconteur Camera Driver](https://github.com/robotraconteur-contrib/robotraconteur_camera_driver) - Camera driver based on OpenCV VideoCapture class
@@ -60,6 +68,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Cognex Driver](https://github.com/robotraconteur-contrib/Cognex_driver) - Driver for Cognex object recognition cameras over Ethernet
 
+[Flir Thermal Camera Driver](https://github.com/robotraconteur-contrib/flir_thermal_camera_robotraconteur_driver) - Driver for Flir thermal cameras using Spinnaker SDK
+
 ### Misc Devices
 
 [Joystick/Gamepad Driver](https://github.com/robotraconteur-contrib/robotraconteur_joystick_driver) - SDL2 based driver for gamepads and joysticks
@@ -67,6 +77,20 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 [MTI Sensor](https://github.com/robotraconteur-contrib/MTI_RR_Interface)
 
 [3DConnexion SpaceMouse](https://github.com/robotraconteur-contrib/robotraconteur_spacemouse_evdev_driver) - Linux evdev based driver for the 3DConnexion SpaceMouse
+
+[PhaseSpace Motion Capture](https://github.com/robotraconteur-contrib/phasespace_mocap_robotraconteur_driver)
+
+[OpiTrack Motion Capture](https://github.com/robotraconteur-contrib/optitrack_mocap_robotraconteur_driver)
+
+[Analog Devices M1K Active Learning Module](https://github.com/robotraconteur-contrib/M1K_RR_Service)
+
+[Microphone Driver](https://github.com/robotraconteur-contrib/robotraconteur_microphone_driver) - Standard system microphone driver
+
+[Ocean Optics Spectrometer](https://github.com/robotraconteur-contrib/ocean_optics_spectrometer_robotraconteur_driver) - Driver for Ocean Optics spectrometers
+
+[Artec Scanner Driver](https://github.com/robotraconteur-contrib/artec_scanner_robotraconteur_driver)
+
+[Fronius TPS/i Welder](https://github.com/robotraconteur-contrib/fronius_robotraconteur_driver)
 
 ## Software
 
