@@ -54,6 +54,8 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [ABB Motion Program Driver](https://github.com/rpirobotics/abb_motion_program_exec)
 
+[ABB Robot Client](https://github.com/rpirobotics/abb_robot_client) - ABB Robot Client for RWS and EGM
+
 [Fanuc Motion Program Driver](https://github.com/rpiRobotics/fanuc_motion_program_exec)
 
 [ABB Robot Driver Hybrid Motion Program](https://github.com/robotraconteur-contrib/abb_robotraconteur_driver_hmp) - Hybrid driver supporting both real-time streaming and motion program operation
