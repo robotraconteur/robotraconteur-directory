@@ -12,8 +12,6 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Robot Raconteur Lite](https://github.com/robotraconteur/robotraconteurlite) - Robot Raconteur lightweight ANSI C implementation for real-time and embedded systems
 
-[Robot Raconteur Pyodide](https://github.com/robotraconteur/robotraconteur_pyodide) - Robot Raconteur library for Pyodide, Python for the browser using WebAssembly
-
 ## Robot Raconteur Companion Libraries
 
 [Robot Raconteur Companion C++](https://github.com/robotraconteur/robotraconteur_companion) - Robot Raconteur Companion library for C++
