@@ -44,8 +44,6 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 [Motoman HSC Driver](https://github.com/robotraconteur-contrib/MotomanHSCRobotRaconteurDriver) - Driver for Motoman HSC controllers (Incomplete!)
 
-[Gazebo Robot Raconteur Driver](https://github.com/robotraconteur-contrib/GazeboModelRobotRaconteurDriver) - Driver for robots running in Gazebo simulation environment
-
 [Robotiq Three Finger Gripper Driver](https://github.com/robotraconteur-contrib/RobotiqThreeFingerGripperRobotRaconteurDriver) - Driver for Robotiq Three Finger gripper
 
 [Robot Signal Tool Driver](https://github.com/robotraconteur-contrib/RobotSignalToolRobotRaconteurDriver) - Driver for tools that are controlled by robot digital-io signals, for instance pneumatic grippers
