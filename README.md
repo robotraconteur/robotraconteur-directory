@@ -92,7 +92,7 @@ Directory of device drivers, applications, utilities, examples, and documentatio
 
 ## Software
 
-[Robot Raconteur Gazebo Server Plugin](https://github.com/robotraconteur-contrib/RobotRaconteur_Gazebo_Server_Plugin) - Plugin for Gazebo Robot Simulator
+[Robot Raconteur GZ Sim Server Plugin](https://github.com/robotraconteur-contrib/gz-sim-robotraconteur-plugins) - Plugin for modern GZ SimGazebo Robot Simulator
 
 [Robot Raconteur ROS 2 Bridge](https://github.com/robotraconteur-contrib/robotraconteur_ros2_bridge) - Bridge to access ROS 2 topics and services using Robot Raconteur
 
